@@ -1,7 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Laras</h1>
-<br>
-- 💬 Ask me about **HTML, CSS, JavaScript, Java** <br>
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Java**
+
 - 📫 How to reach me **larasatimaharanii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
